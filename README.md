@@ -108,7 +108,7 @@
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laravel.svg"
       alt="laravel"
       width="40"
       height="40"
@@ -132,7 +132,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://media.discordapp.net/attachments/1113884349566304318/1113893873379446874/mysql-svgrepo-com.png"
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -218,14 +218,6 @@
       height="40"
     />
   </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/349544/ubuntu.svg"
-      alt="ubuntu"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/382713/windows-applications.svg"
@@ -235,3 +227,4 @@
     />
   </a>
 </p>
+
