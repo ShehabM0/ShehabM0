@@ -7,7 +7,7 @@
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
       height="30"
-      width="40"
+      width="30"
     />
   </a>
   <a href="https://www.linkedin.com/in/shehab-mohamed-4284b8249/" target="_blank" rel="noreferrer">
@@ -24,6 +24,15 @@
       alt="https://codeforces.com/profile/nzk"
       height="40"
       width="40"
+    />
+  </a>
+  <a href="https://shehabm0.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      src="https://img.icons8.com/glyph-neue/64/E5E5E5/link.png"
+      alt="https://shehabm0.github.io/portfolio/"
+      height="35"
+      width="35"
     />
   </a>
 </p>
