@@ -20,15 +20,6 @@
       width="40"
     />
   </a>
-  <a href="https://leetcode.com/u/shehabcs/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"
-      alt="leetcode"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://codeforces.com/profile/nzk" target="_blank" rel="noreferrer">
     <img
       align="center"
@@ -45,6 +36,28 @@
       alt="portfolio"
       height="40"
       width="40"
+    />
+  </a>
+</p>
+
+<h3 align="left">Find me on:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/shehabcs/" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"
+      alt="leetcode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://hyperskill.org/my-learning/634127046" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      src="https://hyperskill.org/favicon.ico"
+      alt="Hyperskill Academy"
+      width="40"
+      height="40"
     />
   </a>
 </p>
@@ -91,7 +104,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cpp"
